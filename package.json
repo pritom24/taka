@@ -1,0 +1,11 @@
+{
+  "name": "taka",
+  "version": "1.0.0",
+  "description": "simple blockchain ",
+  "main": "index.js",
+  "author": "tonoy",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
